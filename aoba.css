@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+#meunome{
+    background-color: lightpink;
+    color: white;
+}
+
+p{
+    font-size: 24px;
+}
+
+h1{
+    font-size: 34px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
